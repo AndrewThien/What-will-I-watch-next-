@@ -1,7 +1,6 @@
-# Apply Python NLP library - SpaCy
+# Task 2 - Semantic Similarity
 
-This project applies SpaCy - a Python NLP library - to analyse garden-path sentences.
-Tokenisation and Entity recognition were employed in this project.
+This project applies SpaCy - a Python NLP library - to recommend the movie to watch next based on the film desciptions and desciption of Planet Hulk.
 
 ## Installation <a name="installation"/>
 
@@ -21,7 +20,7 @@ docker run hello-world
 - With the Docker app opened, run this code in your CP:
 
 ```bash
-docker run andrewthien/my-garden
+docker run andrewthien/semantic2
 ```
 
 - When finished, you should see the out come of this program, similar to the picture in usage section.
@@ -38,8 +37,8 @@ docker run andrewthien/my-garden
 
 ## Usage <a name="usage"/>
 
-#### The program can be used to analyse and perform entity recognition which will be useful in machine learning and AI applications.
-#### After running the project, you should see the outcome as below. That is the results when tokenisation and entity recognition were done on a list of some garden-path sentences.
+#### The program can be used to analyse and perform similarity checking between a film description (Planet Hulk) and 10 other movies, then point out which movie should be watched next after Planet Hulk.
+#### After running the project, you should see the outcome as below. When the input is the description of Planet Hulk, Spacy recommends Movie C, which has the highest similarity with the input.
 
 
 ![screenshot](Screenshot.png "screenshot")
