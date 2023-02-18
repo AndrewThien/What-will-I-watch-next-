@@ -43,7 +43,6 @@ docker run andrewthien/semantic2
 
 ![screenshot](Screenshot.png "screenshot")
 
-### Note: Each sentence were examined, and below the list of tokenised elements in the sentence, the entity recognition was just performed and show the result of that process for the sentence above it. 
 
 ## Contributing <a name="contributing"/>
 
