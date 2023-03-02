@@ -1,4 +1,4 @@
-# Task 2 - Semantic Similarity
+# What to watch next?
 
 This project applies SpaCy - a Python NLP library - to recommend the movie to watch next based on the film desciptions and desciption of Planet Hulk.
 
