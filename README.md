@@ -4,7 +4,7 @@ This project applies SpaCy - a Python NLP library - to recommend the movie to wa
 
 ## Installation <a name="installation"/>
 
-There is aa very easy way to run this program on your computer, i.e., Using my online Docker image.
+There is a very easy way to run this program on your computer, i.e., Using my online Docker image.
 
 
 ### Using Docker image
